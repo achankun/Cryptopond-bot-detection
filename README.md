@@ -2,6 +2,12 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue) ![Pandas](https://img.shields.io/badge/pandas-1.6.2-orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-green) ![LightGBM](https://img.shields.io/badge/LightGBM-4.0.0-purple)
 
+## Author
+
+**Achan**
+Pond Profile: [https://cryptopond.xyz/developer/084b445f-6b60-11f0-a1f3-024775222cc3)
+Email: ichsanbit45@gmail.com
+
 ## Overview
 
 This repository contains a **bot detection pipeline** for wallet activity on blockchain networks. The main goal is to identify wallets likely operated by bots using **anomaly detection**, **heuristic rules**, and **supervised learning refinement**.
